@@ -12,3 +12,10 @@ A configuração é necessária para que quando você precisar subir algum proje
 Para saber se a configuração foi realizada com sucesso, basta digitar o seguinte comando: <code>git config --list</code> e procurar o nome e email usado para criar a sua conta no github, se ambos estiverem sendo informados no mcd então a configuração foi feita com sucesso.
 
 ## Abrindo o Git pelo Visual Studio Code
+
+Abra o Visual Studio Code, vá em configurações e procure por preferências, na qual você terá que abrir o arquivo settings.json e adicione os seguintes comandos:
+
+* "terminal.integrated.defaultProfile.windows": "Git Bash",</li>
+* "terminal.integrated.tabs.enabled": true,</li>
+
+E salve após isso salve e feche o arquivo, depois de salvar basta você abrir o gui bash, ou usar as teclas <code>CTRL</code>+<code>J</code> que ira abrir o terminal do VS Code e pronto, seja feliz usando o Git pelo Visual Studio Code!
