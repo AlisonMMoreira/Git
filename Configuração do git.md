@@ -10,3 +10,5 @@ A configuração é necessária para que quando você precisar subir algum proje
 # Como conferir se a configuração foi realizada com sucesso?
 
 Para saber se a configuração foi realizada com sucesso, basta digitar o seguinte comando: <code>git config --list</code> e procurar o nome e email usado para criar a sua conta no github, se ambos estiverem sendo informados no mcd então a configuração foi feita com sucesso.
+
+## Para abrir 
