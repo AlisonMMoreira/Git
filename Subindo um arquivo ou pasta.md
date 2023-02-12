@@ -1,7 +1,7 @@
 <ul>
   <li>criar e abrir uma pasta do computador com o git bash</li>
   <li>criar um repositório e copiar a url do repositório</li>
-  <li>após isso vc usa o comando <code>git clone <url do repositório>.git</code></li>
+  <li>após isso vc usa o comando <code>git clone "url_do_repositório".git</code></li>
   <li>entre dentro da pasta usando o comando <code>cd <nome da pasta></code></li>
   <li>use o <code>git status</code> para conferir se os arquivos estão em perfeito estado</li>
   <li>use o comando <code>git add .</code></li>
