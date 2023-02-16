@@ -25,6 +25,7 @@ Comando usado para navegar entre diretórios.
   <li>criar um repositório e copiar a url do repositório</li>
   <li>após isso vc usa o comando <code>git clone url_do_repositório.git</code></li>
   <li>entre dentro da pasta usando o comando <code>cd <nome da pasta></code></li>
+  <li>adicione os arquivos que você queira subir no github e após isso</li>
   <li>use o <code>git status</code></li>
   <li>use o comando <code>git add .</code></li>
   <li>use o <code>git status</code> para conferir se os arquivos estão hospedados localmente na sua máquina.</li>
